@@ -1,0 +1,25 @@
+Facebook.md
+- Get alerts about unrecognized logins: select Get Notifications and Get Emails
+
+#### Two-Factor Authentication
+- Use two-factor authentication > Edit > Use Authentication App > Scan the QR code using an authenticator app > Continue > Enter 6 digit code > Continue > Done
+NOTE 2: The backup codes downloaded is required to login, if 2FA method is lost, broken or unavailable. Keep these codes somewhere safe, to prevent loss or unauthorised access. They can be stored in a password manager, in an encrypted note, or write them down somewhere safe.
+
+
+
+## Your Facebook information
+
+#### Off-Facebook activity
+ Markdown
+Showing the top five matches
+Last indexed on December 10
+@onG-social
+onG-social/somee-translations
+mobile/en.json
+	"TwoFactor.copyKeyCode": "Copy key code",
+	"TwoFactor.turnOff": "Turn off two-factor authentication",
+	"TwoFactor.areYouSureRemoval": "Are you sure that you want to turn off two-factor authentication?",
+	"TwoFactor.yes": "Yes",
+ JSON
+Showing the top four matches
+Last indexed 
